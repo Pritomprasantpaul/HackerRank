@@ -1,4 +1,4 @@
-package javaBasicCertification;
+package com.java.basicCertification;
 
 public class Bitmark {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package javaBasicCertification;
+package com.java.basicCertification;
 
 import java.io.*;
 import java.math.*;
