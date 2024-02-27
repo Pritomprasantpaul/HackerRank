@@ -1,4 +1,4 @@
-package selfPractise;
+package com.java.selfPractise;
 
 public class SquareRoot {
 

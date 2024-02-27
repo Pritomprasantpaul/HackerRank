@@ -1,4 +1,4 @@
-package javaBasicCertification;
+package com.java.basicCertification;
 import java.util.Scanner;
 
 abstract class Calculator {
